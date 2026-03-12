@@ -1,4 +1,4 @@
-Hii, I'm Shreenidhi
+                        Hii, I'm Shreenidhi
 
 ---
 
@@ -9,3 +9,5 @@ Exploring new skills and improving *python*
 Reach me at : *shreenidhi7ram@gmail.com*
 
 ---
+### socials
+[![LinkedIn](https://www.linkedin.com/feed/)
