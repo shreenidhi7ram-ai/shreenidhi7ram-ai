@@ -1,4 +1,4 @@
-div align="center">Hii, I'm *Shreenidhi*</div>
+Hii, I'm Shreenidhi
 
 ---
 
